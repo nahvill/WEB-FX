@@ -140,45 +140,4 @@
     }
 
 
-
-
-
-
-
- // efecto
-
-$('#video-gallery').lightGallery({
-    videojs: true
-}); 
-
-
-
-
-
-
-
-
-
-
-
-
-/*JS way for setting height: 100vh to slides' height*/
-/*const $slides = $(".owl-carousel .owl-slide");
-$slides.css("height", $(window).height());
-$(window).resize(() => {
-  $slides.css("height", $(window).height());
-});*/
-
-
-
-
-
-
-
-
-
-
-
-
-
 })(jQuery);
